@@ -9,4 +9,4 @@ public class task1
 }
 ```
 ## Результат
-![alt text](https://github.com/ppc-ntu-khpi/java-3-prikhodko25/blob/master/src/1.png)
+![alt text](https://github.com/prikhodko25/oop.practise/blob/main/image/task1.png)
