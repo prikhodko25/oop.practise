@@ -508,4 +508,4 @@ public class MainTest {
 ```
 ## Результат
 ![alt text](https://github.com/prikhodko25/oop.practise/blob/main/image/task2.1.png)
-![alt text](https://github.com/prikhodko25/oop.practise/blob/main/image/task2.2.png)
+![alt text](https://github.com/prikhodko25/oop.practise/blob/main/image/tаsk2.2.png)
