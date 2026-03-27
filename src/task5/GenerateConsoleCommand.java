@@ -1,4 +1,4 @@
-package ex17;
+package ex17; 
 
 /**
  * Консольна команда Generate
